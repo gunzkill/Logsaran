@@ -1,4 +1,4 @@
-getgenv().Settings = {
+etgenv().Settings = {
     Show_Item_Settings = {
         Godhuman = true,  -- true or false
         Cursed_Dual_Katana = true,  -- true or false
